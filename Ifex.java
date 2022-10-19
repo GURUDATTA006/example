@@ -6,5 +6,9 @@ class Ifex {
 		{
 			System.out.println("it is a even number");
 		}
+		else
+		{
+			System.out.println("it is odd");
+		}
   }
 }
