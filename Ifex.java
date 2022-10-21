@@ -4,7 +4,7 @@ class Ifex {
 		int a=11;
 		if(a%2==0)
 		{
-			System.out.println("it is a even number");
+			System.out.println("it is a even number")
 		}
 		else
 		{
